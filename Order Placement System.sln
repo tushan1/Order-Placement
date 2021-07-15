@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Order Placement System", "Order Placement System\Order Placement System.csproj", "{1496EE73-3AC7-4C8A-9BBA-D4C9061E567E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1496EE73-3AC7-4C8A-9BBA-D4C9061E567E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1496EE73-3AC7-4C8A-9BBA-D4C9061E567E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1496EE73-3AC7-4C8A-9BBA-D4C9061E567E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1496EE73-3AC7-4C8A-9BBA-D4C9061E567E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807CA303-65EA-4F9D-9627-A832661EC234}
+	EndGlobalSection
+EndGlobal
