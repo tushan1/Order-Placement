@@ -74,7 +74,7 @@
 					<!-- UserName -->
 
 					<div class="wrap-input100 validate-input" data-validate = "Username is required">
-						<asp:TextBox ID="username" class="input100" placeholder="Username" type="text"  runat="server" pattern="^\d{6}$"  title="must be 6 characters"></asp:TextBox>
+						<asp:TextBox ID="username" class="input100" placeholder="Username" type="text"  runat="server" MaxLength="12" pattern="^[a-zA-Z0-9]{6,12}$"  title="must be at least 6 characters (max = 12)"></asp:TextBox>
 						<span class="focus-input100"></span>
 						<span class="symbol-input100">
 							<i class="fa fa-user" aria-hidden="true"></i>
